@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace Collections
+namespace Collection
 {
     public class Collection<T>
     {

@@ -1,4 +1,4 @@
-﻿using Collections;
+﻿using Collection;
 
 namespace Collection
 {
@@ -25,7 +25,7 @@ namespace Collection
             Console.WriteLine("Added: 60");
             Console.WriteLine(nums);
             Console.WriteLine();
-
+            
             nums[1] = 2000;
             nums[5] = 6000;
             Console.WriteLine("Changed: nums[1] and nums[5]");
